@@ -3,8 +3,8 @@
 ## Libraries
 
 This program uses python libraies, which are:
--pytube
--moviepy
+-  pytube
+-  moviepy
 
 ## Info 
 Brute force video editing algorithm is a small piece of code that can cut your videos into sequences based on the keywords(key sentences)  you input. However, it's still unfinished because I need to train a model that detects rhetorical questions from normal ones.
